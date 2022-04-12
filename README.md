@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 I am a developer advocate at thirdweb! I primarily focus on helping developers
-learn about web3 and how to build web3 apps. Outside of code, I am obsessed with Marvel,
-love to play video games, and I really enjoy reading.
+learn about web3 and how to build web3 apps. Outside of code... I am obsessed with Marvel,
+love to play video games, and do some occassional reading. 
 
 
 ## 🛠 Skills
