@@ -26,12 +26,6 @@ HTML, CSS, Javascript, React... I did like two years of Java in college?
 [DarkModeComics](https://twitter.com/darkmodecomics),
 WIT-Wednesday, and co-hosting Dev Rel Radio.
 
-## 🧠 Learning...
-web3, technical documentation, react, and solidity. 
-
-## 👯‍♀️ Let's collab on...
-Twitter spaces, interviews, or co-written guides/blogs.
-
 ## ☕️ Coffee Chats
 I do [coffee chats](https://calendly.com/saminacodes/coffee-chat-office-hours) 
 every Monday! Ask me about web3, developer advocacy, community building, & networking.
