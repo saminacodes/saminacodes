@@ -25,7 +25,8 @@ HTML, CSS, Javascript, React... I did like two years of Java in college?
 ## 👩‍💻 Working on...
 - [DarkModeComics](https://twitter.com/darkmodecomics) 
 - [Cookie Project](https://cookie-project.xyz)
-- Dev Rel Radio
+- [Dev Rel Radio](https://twitter.com/devrel_radio)
+- WIT Wednesday (coming soon)
 
 ## ☕️ Coffee Chats
 I do [coffee chats](https://calendly.com/saminacodes/coffee-chat-office-hours) 
