@@ -9,7 +9,7 @@ Outside of work, I am a huge fan of Marvel movies, play video games, and I like 
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, React... I did like two years of Java in college?
+HTML, CSS, Javascript, React... I did like two years of Java in college? Also, really good at creating templates on Notion
 
 
 ## 🔗 Links
