@@ -29,7 +29,7 @@ HTML, CSS, Javascript, React... I did like two years of Java in college? Also, r
 - WIT Wednesday (coming soon)
 
 ## ☕️ Coffee Chats
-I do [coffee chats](https://calendly.com/saminacodes/coffee-chat-office-hours) 
+I do [coffee chats](https://calendly.com/saminacodes/coffee-chat) 
 every Monday! Ask me about web3, developer advocacy, community building, & networking.
 
 ## 📫 How to reach me
