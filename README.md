@@ -13,13 +13,12 @@ HTML, CSS, Javascript, React... I did like two years of Java in college? Also, r
 
 
 ## 🔗 Links
-[Twitter](https://twitter.com/saminacodes),
-[Instagram](https://instagram.com/saminacodes), 
-[TikTok](https://tiktok.com/@saminacodes), 
-[YouTube](https://www.youtube.com/channel/UCOn_EdNjkpZV-_3_UKf5JKg), 
-[Twitch](https://twitch.tv/saminacodes), 
-[CodePen](https://codepen.io/saminacodes), 
-[GitHub](https://github.com/saminacodes), 
+[Twitter](https://twitter.com/saminacodes) •
+[Instagram](https://instagram.com/saminacodes) • 
+[TikTok](https://tiktok.com/@saminacodes) •
+[YouTube](https://www.youtube.com/channel/UCOn_EdNjkpZV-_3_UKf5JKg) • 
+[Twitch](https://twitch.tv/saminacodes) • 
+[CodePen](https://codepen.io/saminacodes) •
 [Goodreads](https://goodreads.com/saminacodes)
 
 ## 👩‍💻 Working on...
