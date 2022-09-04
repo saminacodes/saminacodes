@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a developer advocate at thirdweb! I primarily focus on helping developers
+I am a developer relations engineer at thirdweb. I primarily focus on helping developers
 learn about web3 and how to build web3 apps. Sometimes I code fun little side projects.
 Outside of work, I am a huge fan of Marvel movies, play video games, and I like to draw.
 
@@ -24,12 +24,7 @@ HTML, CSS, Javascript, React... I did like two years of Java in college? Also, r
 ## 👩‍💻 Working on...
 - [DarkModeComics](https://twitter.com/darkmodecomics) 
 - [Cookie Project](https://cookie-project.xyz)
-- [Dev Rel Radio](https://twitter.com/devrel_radio)
 - WIT Wednesday (coming soon)
-
-## ☕️ Coffee Chats
-I do [coffee chats](https://calendly.com/saminacodes/coffee-chat) 
-every Monday! Ask me about web3, developer advocacy, community building, & networking.
 
 ## 📫 How to reach me
 [Twitter](https://twitter.com/saminacodes) is the best way to contact me! Feel free to also send me an email
