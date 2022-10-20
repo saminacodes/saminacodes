@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 I am a developer relations engineer at thirdweb. I primarily focus on helping developers
-learn about web3 and how to build web3 apps. Sometimes I code fun little side projects.
+learn about web3 and how to build web3 apps. Sometimes I code fun little side projects (mostly frontend apps).
 Outside of work, I am a huge fan of Marvel movies, play video games, and I like to draw.
 
 
