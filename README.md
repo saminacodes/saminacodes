@@ -13,13 +13,13 @@ HTML, CSS, Javascript, React, Next, Solidity... I did like two years of Java in 
 
 
 ## 🔗 Links
-[Twitter](https://twitter.com/saminacodes) •
-[Instagram](https://instagram.com/saminacodes) • 
-[TikTok](https://tiktok.com/@saminacodes) •
-[YouTube](https://www.youtube.com/channel/UCOn_EdNjkpZV-_3_UKf5JKg) • 
-[Twitch](https://twitch.tv/saminacodes) • 
-[CodePen](https://codepen.io/saminacodes) •
-[Goodreads](https://goodreads.com/saminacodes)
+- [Twitter](https://twitter.com/saminacodes) 
+- [Instagram](https://instagram.com/saminacodes) 
+- [TikTok](https://tiktok.com/@saminacodes) 
+- [YouTube](https://www.youtube.com/channel/UCOn_EdNjkpZV-_3_UKf5JKg) 
+- [Twitch](https://twitch.tv/saminacodes) 
+- [CodePen](https://codepen.io/saminacodes) 
+- [Goodreads](https://goodreads.com/saminacodes)
 
 ## 👩‍💻 Working on...
 - [DarkModeComics](https://twitter.com/darkmodecomics) 
