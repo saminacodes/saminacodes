@@ -9,7 +9,7 @@ Outside of work, I am a huge fan of Marvel movies, play video games, and I like 
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, React, Next, Solidity (learning)... I did like two years of Java in college?
+HTML, CSS, Javascript, React, Next, Solidity... I did like two years of Java in college?
 
 
 ## 🔗 Links
@@ -24,8 +24,9 @@ HTML, CSS, Javascript, React, Next, Solidity (learning)... I did like two years 
 ## 👩‍💻 Working on...
 - [DarkModeComics](https://twitter.com/darkmodecomics) 
 - [Cookie Project](https://cookie-project.xyz)
+- [Samina's Recipes](https://samina.recipes)
 - WIT Wednesday (coming soon)
-- Samina's Recipes (coming soon)
+
 
 ## 📫 How to reach me
 I am intentionally impossible to reach. If you want to make some developer friends, you can [join the Dark Mode Developers](https://discord.gg/BzEQAeRdac) discord. If you have any inquiries related to thirdweb please send us an email support[at]thirdweb[dot]com
