@@ -29,4 +29,4 @@ HTML, CSS, Javascript, React, Next, Solidity... I did like two years of Java in 
 
 
 ## 📫 How to reach me
-I am intentionally impossible to reach. If you want to make some developer friends, you can [join the Dark Mode Developers](https://discord.gg/BzEQAeRdac) discord. If you have any inquiries related to thirdweb please send us an email support[at]thirdweb[dot]com
+I am intentionally impossible to reach. If you have any inquiries related to thirdweb, please [join the official thirdweb discord server.](https://discord.gg/thirdweb)
