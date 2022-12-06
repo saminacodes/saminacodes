@@ -18,7 +18,8 @@ HTML, CSS, Javascript, React, Next, Solidity... I did like two years of Java in 
 - [TikTok](https://tiktok.com/@saminacodes) 
 - [YouTube](https://www.youtube.com/channel/UCOn_EdNjkpZV-_3_UKf5JKg) 
 - [Twitch](https://twitch.tv/saminacodes) 
-- [CodePen](https://codepen.io/saminacodes) 
+- [CodePen](https://codepen.io/saminacodes)
+- [Replit](https://replit.com/@saminacodes)
 - [Goodreads](https://goodreads.com/saminacodes)
 
 ## 👩‍💻 Working on...
