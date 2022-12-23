@@ -11,6 +11,11 @@ Outside of work, I am a huge fan of Marvel movies, play video games, and I like 
 ## 🛠 Skills
 HTML, CSS, Javascript, React, Next, Solidity... I did like two years of Java in college?
 
+## 👩‍💻 Working on...
+- [DarkModeComics](https://twitter.com/darkmodecomics) 
+- [Cookie Project](https://cookie-project.xyz)
+- [Samina's Recipes](https://samina.recipes)
+- WIT Wednesday (coming soon)
 
 ## 🔗 Links
 - [Twitter](https://twitter.com/saminacodes) 
@@ -22,11 +27,7 @@ HTML, CSS, Javascript, React, Next, Solidity... I did like two years of Java in 
 - [Replit](https://replit.com/@saminacodes)
 - [Goodreads](https://goodreads.com/saminacodes)
 
-## 👩‍💻 Working on...
-- [DarkModeComics](https://twitter.com/darkmodecomics) 
-- [Cookie Project](https://cookie-project.xyz)
-- [Samina's Recipes](https://samina.recipes)
-- WIT Wednesday (coming soon)
+
 
 
 ## 📫 How to reach me
