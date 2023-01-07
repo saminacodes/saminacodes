@@ -12,6 +12,7 @@ Outside of work, I am a huge fan of Marvel movies, play video games, and I like 
 HTML, CSS, Javascript, React, Next, Solidity... I did like two years of Java in college?
 
 ## 👩‍💻 Working on...
+- [thirdweb](https://thirdweb.com)
 - [DarkModeComics](https://twitter.com/darkmodecomics) 
 - [Cookie Project](https://cookie-project.xyz)
 - [Samina's Recipes](https://samina.recipes)
