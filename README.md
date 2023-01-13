@@ -1,6 +1,6 @@
 
-# Hi, I'm Samina! 👋 My GitHub is a barren wasteland because I prefer CodePen/Replit for when I am learning (see links below) eeaaooo. 
-
+# Hi, I'm Samina! 👋
+My GitHub is a barren wasteland because I prefer CodePen/Replit for when I am learning (see links below) eeaaooo. 
 
 ## 🚀 About Me
 I am a developer relations engineer at thirdweb. I primarily focus on helping developers
