@@ -2,9 +2,9 @@
 # Hi, I'm Samina! 👋
 
 ## 🚀 About Me
-I am a developer relations engineer at thirdweb. I primarily focus on helping developers
-learn about web3 and how to build web3 apps. Sometimes I code fun little side projects (mostly frontend apps).
-Outside of work, I am a huge fan of Marvel movies, play video games, and I like to draw.
+I am the Head of Developer Relations at thirdweb, where I manage our team, build courses, and create programs. I am passionate about education and helping others, so I create content to make tech education more accessible.
+
+When I am not working, I am pretty introverted and like to unwind by playing video games, watching Korean dramas, drawing, cooking, or reading. I also have two goldfish and a black cat, Saia, who keep me company.
 
 
 ## 🛠 Skills
@@ -13,9 +13,7 @@ HTML, CSS, Javascript, React, Next... I did like two years of Java in college?
 ## 👩‍💻 Working on...
 - [thirdweb](https://thirdweb.com)
 - [DarkModeComics](https://twitter.com/darkmodecomics) 
-- [Cookie Project](https://cookie-project.xyz)
 - [Samina's Recipes](https://samina.recipes)
-- WIT Wednesday (coming soon)
 
 ## 🔗 Links
 - [Twitter](https://twitter.com/saminacodes) 
