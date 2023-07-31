@@ -2,7 +2,7 @@
 # Hi, I'm Samina! 👋
 
 ## 🚀 About Me
-I am a developer relations engineer at thirdweb, where I manage our team, build courses, and create programs. I am passionate about education and helping others, so I create content to make tech education more accessible.
+I am a developer experience engineer at thirdweb, where I manage our team, build courses, and create programs. I am passionate about education and helping others, so I create content to make tech education more accessible.
 
 When I am not working, I am pretty introverted and like to unwind by playing video games, watching Korean dramas, drawing, cooking, or reading. I also have two goldfish and a black cat, Saia, who keep me company.
 
