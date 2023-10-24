@@ -25,4 +25,4 @@ HTML, CSS, Javascript, React, Next... I did like two years of Java in college?
 - [Goodreads](https://goodreads.com/saminacodes)
 
 ## 📫 How to reach me
-I am intentionally impossible to reach. If you have any inquiries related to thirdweb, please [join the official thirdweb discord server.](https://discord.gg/thirdweb) or [contact our team](https://thirdweb.com/contact-us). 
+I am intentionally impossible to reach. If you have any inquiries related to thirdweb, please [join the official thirdweb discord server](https://discord.gg/thirdweb) or [contact our team](https://thirdweb.com/contact-us). 
