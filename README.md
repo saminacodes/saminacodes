@@ -14,14 +14,16 @@ HTML, CSS, Javascript, React, Next... I did like two years of Java in college?
 - [Samina's Blog](https://samina.codes/blog)
 - [Samina's Recipes](https://samina.recipes)
 
-## 🔗 Links
+## More code!
+- [CodePen](https://codepen.io/saminacodes)
+- [Replit](https://replit.com/@saminacodes)
+
+## 🔗 Social Links
 - [Twitter](https://twitter.com/saminacodes) 
 - [Instagram](https://instagram.com/saminacodes) 
 - [TikTok](https://tiktok.com/@saminacodes) 
 - [YouTube](https://www.youtube.com/channel/UCOn_EdNjkpZV-_3_UKf5JKg) 
 - [Twitch](https://twitch.tv/saminacodes) 
-- [CodePen](https://codepen.io/saminacodes)
-- [Replit](https://replit.com/@saminacodes)
 - [Goodreads](https://goodreads.com/saminacodes)
 
 ## 📫 How to reach me
