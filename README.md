@@ -14,7 +14,7 @@ HTML, CSS, Javascript, React, Next... I did like two years of Java in college?
 - [Samina's Blog](https://samina.codes/blog)
 - [Samina's Recipes](https://samina.recipes)
 
-## 🐛 more places with code
+## 🐛 more code
 - [CodePen](https://codepen.io/saminacodes)
 - [Replit](https://replit.com/@saminacodes)
 
