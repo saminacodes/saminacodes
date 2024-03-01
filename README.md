@@ -2,7 +2,7 @@
 # Hi, I'm Samina! 👋
 
 ## 🚀 about me
-I'm a product manager at [thirdweb](https://thirdweb.com), and my main focus is on enhancing the developer experience across our dashboard, SDKs, CLI, and documentation. I'm also really passionate about education and helping others, so I sometimes create content to make tech education more accessible.
+I'm a product manager at [thirdweb](https://thirdweb.com), and my main focus is on enhancing the developer experience across our dashboard, SDKs/CLI, support experience, and documentation. I'm also really passionate about education and helping others, so I sometimes create content to make tech education more accessible.
 
 When I am not working, I am pretty introverted and like to unwind by playing video games, watching Korean dramas, drawing, cooking, or reading. I also have two goldfish and a black cat, Saia, who keep me company.
 
