@@ -20,7 +20,6 @@ HTML, CSS, Javascript, React, Next... I did like two years of Java in college?
 
 ## 🔗 more socials
 - [TikTok](https://tiktok.com/@saminacodes) 
-- [YouTube](https://www.youtube.com/channel/UCOn_EdNjkpZV-_3_UKf5JKg) 
 - [Twitch](https://twitch.tv/saminacodes) 
 - [Goodreads](https://goodreads.com/saminacodes)
 
