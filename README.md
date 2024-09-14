@@ -10,6 +10,7 @@ When I am not working, I am pretty introverted and like to unwind by playing vid
 HTML, CSS, Javascript, React, Next... I did like two years of Java in college?
 
 ## 👩‍💻 side projects
+- [Resources](https://resources.technology)
 - [DarkModeComics](https://twitter.com/darkmodecomics)
 - [Samina's Blog](https://samina.codes/blog)
 - [Samina's Recipes](https://samina.recipes)
