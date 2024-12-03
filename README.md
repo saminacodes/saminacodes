@@ -2,18 +2,11 @@
 # Hi, I'm Samina! 👋
 
 ## 🚀 about me
-I'm a product manager at [thirdweb](https://thirdweb.com), and my main focus is our smart contracts library and tools. I'm also really passionate about education and helping others, so I sometimes create content to make tech education more accessible.
-
-When I am not working, I am pretty introverted and like to unwind by playing video games, watching anime, drawing, learning piano, cooking, or reading. 
-
-## 🛠 skills
-HTML, CSS, Javascript, React, Next... I did like two years of Java in college?
+I'm a product manager at [thirdweb](https://thirdweb.com), and my main focus is our smart contracts library and tools.
 
 ## 👩‍💻 side projects
 - [Resources](https://resources.technology)
 - [DarkModeComics](https://twitter.com/darkmodecomics)
-- [Samina's Blog](https://samina.codes/blog)
-- [Samina's Recipes](https://samina.recipes)
 
 ## 🐛 more code
 - [CodePen](https://codepen.io/saminacodes)
