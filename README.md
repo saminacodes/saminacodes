@@ -9,8 +9,6 @@ I'm a product manager at [thirdweb](https://thirdweb.com), and my main focus is 
 - [DarkModeComics](https://twitter.com/darkmodecomics)
 
 ## 🔗 more links
-- [TikTok](https://tiktok.com/@saminacodes) 
-- [Twitch](https://twitch.tv/saminacodes)
 - [CodePen](https://codepen.io/saminacodes)
 - [Replit](https://replit.com/@saminacodes)
 - [Goodreads](https://goodreads.com/saminacodes)
