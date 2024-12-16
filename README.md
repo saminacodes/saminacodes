@@ -1,7 +1,5 @@
 
-# Hi, I'm Samina! 👋
-
-## 🚀 about me
+# 🚀 about me
 I'm a product manager at [thirdweb](https://thirdweb.com), and my main focus is our [smart contracts library and tools](https://thirdweb.com/contracts).
 
 ## 👩‍💻 side projects
