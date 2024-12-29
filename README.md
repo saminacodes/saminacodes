@@ -1,6 +1,6 @@
 
 ## 🚀 about me
-I'm a product manager at [thirdweb](https://thirdweb.com), and my main focus is [Contracts](https://thirdweb.com/contracts) and [Nebula](https://thirdweb.com/nebula).
+I'm a product manager at [thirdweb](https://thirdweb.com) working on [Contracts](https://thirdweb.com/contracts) and [Nebula](https://thirdweb.com/nebula).
 
 ## 👩‍💻 side projects
 - [Resources](https://resources.technology)
