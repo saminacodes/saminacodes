@@ -1,6 +1,6 @@
 
 ## 🚀 about me
-I'm a product manager at [thirdweb](https://thirdweb.com) working on [Contracts](https://thirdweb.com/contracts), [Insight](https://thirdweb.com/insight) and [Nebula](https://thirdweb.com/nebula).
+I'm a product manager at [thirdweb](https://thirdweb.com) working on AI and blockchain developer tooling.
 
 ## 👩‍💻 side projects
 - [Resources](https://resources.technology)
