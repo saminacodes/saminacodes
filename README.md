@@ -4,7 +4,7 @@ I'm a product manager at [thirdweb](https://thirdweb.com) working on blockchain 
 
 ## 👩‍💻 side projects
 - [Resources](https://resources.technology)
-- [DarkModeComics](https://twitter.com/darkmodecomics)
+- [DarkModeComics](https://darkmodecomics.com)
 
 ## 🔗 more links
 - [CodePen](https://codepen.io/saminacodes)
