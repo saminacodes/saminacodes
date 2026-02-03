@@ -1,6 +1,6 @@
 
 ## 🚀 about me
-I'm a product manager at [thirdweb](https://thirdweb.com) working on blockchain and AI stuff. 
+I work at [thirdweb](https://thirdweb.com) on blockchain and AI stuff. 
 
 ## 👩‍💻 side projects
 - [Resources](https://resources.technology)
