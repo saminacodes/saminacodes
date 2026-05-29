@@ -3,7 +3,6 @@
 I work at [thirdweb](https://thirdweb.com) on blockchain and AI stuff. 
 
 ## 👩‍💻 side projects
-- [Resources](https://resources.technology)
 - [DarkModeComics](https://darkmodecomics.com)
 
 ## 🔗 more links
