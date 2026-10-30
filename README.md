@@ -10,5 +10,5 @@ I work at [thirdweb](https://thirdweb.com) on blockchain and AI stuff.
 - [Goodreads](https://goodreads.com/saminacodes)
 - [Ko-fi](https://ko-fi.com/saminacodes)
 
-## 📫 how to reach me
-I am intentionally impossible to reach. 
+## 📫 contact
+If you need to reach thirdweb, please use our [contact form](https://thirdweb.com/contact-us)
